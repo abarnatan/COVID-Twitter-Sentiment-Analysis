@@ -6,7 +6,7 @@ Analyze the sentiment of tweets related to the COVID-19 Vaccine and visualize in
 ## Business question: 
 Is twitter a viable marketing tool to use for the roll out of our new covid vaccine? 
 
-## Brief Synopsis  
+## Synopsis  
 
 After cleaning up the data set, we were able to run our sentiment analyis (code here): https://github.com/abarnatan/COVID-Twitter-Sentiment-Analysis/blob/main/Sentiment%20Analysis/TweetSentiment.ipynb
 
@@ -29,6 +29,19 @@ With the subjectivity and polarity scores assigned to each tweet, we then export
 
 - Above we can see how the mentions of the top 4 manufacturers increased over time, similarly to the mentions of the vaccine. It is apparent that when people are talking about the vaccine, the brand names are also heavily involved in those discussions. 
 - The sentiment towards all 4 brands experienced postive growth in November when all the news regarding their release came out, creating hype and positive marketing buzz. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/70718724/119440151-9f823300-bcd8-11eb-879d-7d6475648592.png)
+-After averaging the polarity of all the countries from which we had data from, the global change in sentiment can be seen. Certain countries like Belgium, Canada and Australia stand out with high positivity scores. Overall, there is a positive reception to the vaccine globally. 
+
+## Final Conclusion and Recommendation
+
+- Over time the amount of tweets mentioning the vaccine increased and as did the average polarity of these tweets. This indicates that people are discussing the vaccine more as we approach its release and their perception of the vaccine is increasingly positive. 
+- Each of the big 4 pharmaceutical companies producing the vaccine had positive receptions by the Twitter public. 
+- Sentiment is positive on a global scale. 
+
+Recommendation: Yes, Twitter is a very powerful tool to use to promote our new vaccine. 
+
 
 
 ### Team: 
