@@ -3,6 +3,9 @@
 ### Scope:
 Analyze the sentiment of tweets related to the COVID-19 Vaccine and visualize insights.
 
+![image](https://user-images.githubusercontent.com/70718724/119422658-68028f00-bcb6-11eb-9c3f-f98e8ad05700.png)
+
+
 ### Business question: 
 Is twitter a viable marketing tool to use for the roll out of our new covid vaccine? 
 
