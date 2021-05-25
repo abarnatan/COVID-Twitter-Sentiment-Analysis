@@ -18,6 +18,8 @@ With the subjectivity and polarity scores assigned to each tweet, we then export
 
 - Above, one can see the increased mentions of the vaccine in tweets as we approached the vaccine's release. On the daily chart big spikes in mentions are clearly visible. These dates were days with big news releases regarding the vaccines. 
 
+
+
 ![image](https://user-images.githubusercontent.com/70718724/119424608-a437ee80-bcba-11eb-822e-dc52fe833292.png)
 
 - Next we look at the change in average subjectivity in tweets over time. Surprisingly tweets remained more factual than not. 
