@@ -1,18 +1,31 @@
 # Covid-Vaccine-Hashtagged-Tweets
 
-### Scope:
+## Scope:
 Analyze the sentiment of tweets related to the COVID-19 Vaccine and visualize insights.
 
-![image](https://user-images.githubusercontent.com/70718724/119422658-68028f00-bcb6-11eb-9c3f-f98e8ad05700.png)
-
-
-### Business question: 
+## Business question: 
 Is twitter a viable marketing tool to use for the roll out of our new covid vaccine? 
 
-### Our Analysis
-[Twitter Vaccine Presentation](https://github.com/brettmw92/Covid-Vaccine-Hashtagged-Tweets/files/6430984/Twitter.Vaccine.Slide.Deck.pdf)
+## Analysis 
 
-My portion of code, creating the sentiment analysis: https://github.com/abarnatan/COVID-Twitter-Sentiment-Analysis/blob/main/Sentiment%20Analysis/TweetSentiment.ipynb
+After cleaning up the data set, we were able to run our sentiment analyis (code here): https://github.com/abarnatan/COVID-Twitter-Sentiment-Analysis/blob/main/Sentiment%20Analysis/TweetSentiment.ipynb
+
+Our sentiment analysis evaluates the subjectivity and polarity of each tweet. The subjectivity score (0 to 1) measures how factual the tweet is, with a higher score closer to 1 indicating more opnion and less fact. The polarity score (-1 to 1) indicates whether the tweet is positive (score above 0), negative (score below 0) or neutral (score of 0).
+
+With the subjectivity and polarity scores assigned to each tweet, we then exported the data to a new CSV and loaded it into Tableau and created the following visuals.
+
+![image](https://user-images.githubusercontent.com/70718724/119423905-435be680-bcb9-11eb-9a60-9f83df879d0a.png)
+
+- Above, one can see the increased mentions of the vaccine in tweets as we approached the vaccine's release. On the daily chart big spikes in mentions are clearly visible. These dates were days with big news releases regarding the vaccines. 
+
+![image](https://user-images.githubusercontent.com/70718724/119424608-a437ee80-bcba-11eb-822e-dc52fe833292.png)
+
+- Next we look at the change in average subjectivity in tweets over time. Surprisingly tweets remained more factual than not. 
+- Averaging the positvity monthly shows a significant increase in the sentiment regarding the vaccine over time. People are growing to embrace the vaccine. 
+
+
+
+
 
 ### Team: 
 Brett Williams, Sung Choo, Aaron Garber-Paul, Alejandro Barnatan, Adam Fancher 
