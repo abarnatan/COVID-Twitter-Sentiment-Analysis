@@ -1,4 +1,4 @@
-# Covid-Vaccine-Hashtagged-Tweets
+# Covid Vaccine Tweet Sentiment Analysis
 
 ## Scope:
 Analyze the sentiment of tweets related to the COVID-19 Vaccine and visualize insights.
